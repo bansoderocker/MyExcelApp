@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyExcelApp</string>
+
+    <string name="get_party">https://script.google.com/macros/s/AKfycbxQoPkI5y5ydwil54ouVApFsdsjYXTBDaJwji-pv-3xwRJlscdX3IZun2txTTs5UYg3/exec</string>
+</resources>
